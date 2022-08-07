@@ -1,0 +1,222 @@
+[
+    {
+        "userName": "Ahsan Sayeed",
+        "ActiveStatus": true,
+        "lastSeen":"last seen today at 8.00pm",
+        "Messages":
+        [
+            {
+              "author":"Ahsan Sayeed",
+              "text":"Hello there!"
+            },
+            {
+              "author":"You",
+              "text":"Whats up!!"
+            },
+            {
+              "author":"Ahsan Sayeed",
+              "text":"so where are you now?"
+            },
+            {
+              "author":"You",
+              "text":"At the home , how about you?"
+            },
+            {
+              "author":"You",
+              "text":"Hello"
+            }
+        ]
+    },
+    {
+        "userName": "Sakib",
+        "ActiveStatus": false,
+        "lastSeen":"last seen today at 8.00pm",
+        "Messages":
+        [
+            {
+              "author":"Sakib",
+              "text":"Hello there!"
+            },
+            {
+              "author":"You",
+              "text":"Whats up!!"
+            },
+            {
+              "author":"Sakib",
+              "text":"This is Sakib"
+            },
+            {
+              "author":"You",
+              "text":"Okey"
+            }
+        ]
+    },
+    {
+        "userName": "Khan",
+        "ActiveStatus": true,
+        "lastSeen":"last seen today at 8.00pm",
+        "Messages":
+        [
+            {
+              "author":"Khan",
+              "text":"Hello there!"
+            },
+            {
+              "author":"You",
+              "text":"Whats up!!"
+            },
+            {
+              "author":"Khan",
+              "text":"This is Khan"
+            },
+            {
+              "author":"You",
+              "text":"Okey"
+            }
+        ]
+    },
+    {
+        "userName": "Abdullah",
+        "ActiveStatus": false,
+        "lastSeen":"last seen today at 1.30pm",
+        "Messages":
+        [
+            {
+              "author":"Abdullah",
+              "text":"Hello there!"
+            },
+            {
+              "author":"You",
+              "text":"Whats up!!"
+            },
+            {
+              "author":"Abdullah",
+              "text":"This is Abdullah"
+            },
+            {
+              "author":"You",
+              "text":"Okey"
+            }
+        ]
+    },
+    {
+        "userName":"Jack",
+        "ActiveStatus":true,
+        "lastSeen":"last seen today at 5.20am",
+        "Messages":
+        [
+            {
+              "author":"Jack",
+              "text":"Hello there!"
+            },
+            {
+              "author":"You",
+              "text":"Whats up!!"
+            },
+            {
+              "author":"Jack",
+              "text":"This is Jack"
+            },
+            {
+              "author":"You",
+              "text":"Okey"
+            }
+        ]
+    },
+    {
+        "userName":"John",
+        "ActiveStatus":false,
+        "lastSeen":"last seen yesterday at 9.10pm",
+        "Messages":
+        [
+            {
+              "author":"Jhon",
+              "text":"Hello there!"
+            },
+            {
+              "author":"You",
+              "text":"Whats up!!"
+            },
+            {
+              "author":"Jhon",
+              "text":"This Jhon"
+            },
+            {
+              "author":"You",
+              "text":"Okey"
+            }
+        ]
+    },
+    {
+        "userName":"Jenny",
+        "ActiveStatus":false,
+        "lastSeen":"last seen today at 7.00pm",
+        "Messages":
+        [
+            {
+              "author":"Jenny",
+              "text":"Hello there!"
+            },
+            {
+              "author":"You",
+              "text":"Whats up!!"
+            },
+            {
+              "author":"Jenny",
+              "text":"This is jenny"
+            },
+            {
+              "author":"You",
+              "text":"Okey"
+            }
+        ]
+    },
+    {
+        "userName":"Jack",
+        "ActiveStatus":false,
+        "lastSeen":"last seen today at 6.23pm",
+        "Messages":
+        [
+            {
+              "author":"Ahsan Sayeed",
+              "text":"Hello there!"
+            },
+            {
+              "author":"You",
+              "text":"Whats up!!"
+            },
+            {
+              "author":"Ahsan Sayeed",
+              "text":"so where are you now?"
+            },
+            {
+              "author":"You",
+              "text":"At the home , how about you?"
+            }
+        ]
+    },
+    {
+        "userName":"Doe",
+        "ActiveStatus":false,
+        "lastSeen":"last seen today at 8.05pm",
+        "Messages":
+        [
+            {
+              "author":"Doe",
+              "text":"Hello!"
+            },
+            {
+              "author":"You",
+              "text":"Whats up!!"
+            },
+            {
+              "author":"Doe",
+              "text":"This is Doe?"
+            },
+            {
+              "author":"You",
+              "text":"Okey?"
+            }
+        ]
+    }
+]

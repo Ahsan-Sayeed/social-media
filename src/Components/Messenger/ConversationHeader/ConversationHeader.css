@@ -1,0 +1,15 @@
+.con-img{
+    height: 40px!important;
+    width: 40px;
+    border-radius: 50px;
+    outline: 2px solid red;
+    outline-offset: 2px;
+}
+.con-user-name{
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+.con-active-time{
+    font-size: 12px;
+}

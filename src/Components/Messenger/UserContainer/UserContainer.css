@@ -1,0 +1,41 @@
+
+.user-container{
+    overflow: hidden;
+    background-color:rgb(50, 70, 90);
+}
+.footer-rows{
+    background-color: rgb(66, 84, 130);
+}
+.footer-button:hover{
+    background-color: rgb(120, 144, 164);
+    cursor: pointer;
+}
+.chat-list{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 475px; /* changeable */
+    border-top:5px solid rgb(66, 84, 130);
+}
+
+/* scrollbar design */
+/* width */
+.chat-list::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  .chat-list::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+  }
+   
+  /* Handle */
+  .chat-list::-webkit-scrollbar-thumb {
+    background: rgb(66, 84, 130); 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  .chat-list::-webkit-scrollbar-thumb:hover {
+    background: #b6b6b6; 
+  }
+/* end of scrollbar design */

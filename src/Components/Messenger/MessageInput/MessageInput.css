@@ -1,0 +1,20 @@
+.input-field{
+    height: 50px;
+    padding: 5px;
+}
+.type-message{
+    border-radius:10px!important;
+    margin:0 5px!important;
+    background-color: rgba(42, 57, 66, 0.503)!important;
+    border:none!important;
+    color: white !important;
+    /* padding:5px!important; */
+}
+.type-message::placeholder{
+    color:white!important;
+}
+.con-icon-btn{
+    background-color: transparent;
+    border:none;
+    color:white;
+}

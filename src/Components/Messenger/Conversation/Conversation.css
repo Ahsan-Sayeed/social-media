@@ -1,0 +1,10 @@
+.conversation-header{
+    background-color: rgb(5, 107, 170);
+}
+.conversation-body{
+    height: 570px;
+    background-color: rgb(169, 212, 255);
+}
+.conversation-inputField {
+    background-color: rgb(127, 157, 255);
+}

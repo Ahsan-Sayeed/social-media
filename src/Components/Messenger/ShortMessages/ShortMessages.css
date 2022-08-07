@@ -1,0 +1,38 @@
+.short-image{
+    height: 35px!important;
+    width:35px;
+}
+.short-text{
+    /* border:1px solid red; */
+    padding: 10px;
+    border-radius: 10px;
+    position:relative;
+    background-color: rgb(87, 87, 255);
+    color:white;
+    max-width: 60%;
+}
+.short-text::after{
+    content:'';
+    border: 5px solid;
+    border-color: transparent rgb(87, 87, 255) transparent transparent;
+    position: absolute;
+    top:15px;
+    left:-10px;
+}
+.short-text2{
+    /* border:1px solid red; */
+    padding: 10px;
+    border-radius: 10px;
+    position:relative;
+    background-color: rgb(39, 189, 253);
+    color:white;
+    max-width: 60%;
+}
+.short-text2::after{
+    content:'';
+    border: 5px solid;
+    border-color: transparent transparent transparent rgb(39, 189, 253);
+    position: absolute;
+    top:15px;
+    right:-10px;
+}
